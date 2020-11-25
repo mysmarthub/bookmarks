@@ -1,6 +1,6 @@
-Django~=3.0.8
+Django
 social-auth-app-django
 sorl-thumbnail
-redis~=3.5.3
+redis
 Pillow
 
