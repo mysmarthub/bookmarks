@@ -3,4 +3,5 @@ social-auth-app-django
 sorl-thumbnail
 redis
 Pillow
+pipenv
 
