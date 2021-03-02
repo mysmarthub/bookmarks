@@ -10,22 +10,19 @@ Bookmarks (Django)
 
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/mysmarthub/bookmarks/django)
 ![GitHub language count](https://img.shields.io/github/languages/count/mysmarthub/bookmarks)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mysmarthub/bookmarks)
-![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/bookmarks/total)
 ![GitHub](https://img.shields.io/github/license/mysmarthub/bookmarks)
 ![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/bookmarks?style=social)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/bookmarks)
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/mysmarthub/bookmarks)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mysmarthub/bookmarks)
+[![Donate](https://img.shields.io/static/v1?label=donate&message=paypal&color=green)](https://paypal.me/myhackband)
+[![Donate](https://img.shields.io/static/v1?label=donate&message=yandex&color=yellow)](https://yoomoney.ru/to/4100115206129186)
+
 ---
 Help the project financially:
 ---
->Yandex Money:
-https://yoomoney.ru/to/4100115206129186
+> Yandex Money: https://yoomoney.ru/to/4100115206129186
 
-    Visa:    4048 4150 0400 5852
-
-    Sberbank Russia: 4276 4417 5763 7686
+    Visa:    4048 0250 0089 5923
 
 https://paypal.me/myhackband
 
@@ -74,5 +71,5 @@ SOFTWARE.
 
 Support:
 ---
-    Email: myhackband@yandex.ru
+    Email: mysmarthub@yandex.ru
     Copyright © 2020 Aleksandr Suvorov
